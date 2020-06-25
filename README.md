@@ -20,7 +20,6 @@
 <li>1958 &ndash;&nbsp;<a title="Chester Carlson" href="https://en.wikipedia.org/wiki/Chester_Carlson">Chester Carlson</a>&nbsp;presents the first&nbsp;<a title="Photocopier" href="https://en.wikipedia.org/wiki/Photocopier">photocopier</a>&nbsp;suitable for office use.</li>
 </ul>
 <h2><span id="History_of_telecommunication" class="mw-headline">History of telecommunication</span></h2>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
 <h3><span id="Pre-electric" class="mw-headline">Pre-electric</span></h3>
 <ul>
 <li>AD 26&ndash;37 &ndash; Roman Emperor&nbsp;<a title="Tiberius" href="https://en.wikipedia.org/wiki/Tiberius">Tiberius</a>&nbsp;rules the empire from the island of&nbsp;<a title="Capri" href="https://en.wikipedia.org/wiki/Capri">Capri</a>&nbsp;by signaling messages with metal mirrors to reflect the sun.</li>
